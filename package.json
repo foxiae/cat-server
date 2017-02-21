@@ -1,0 +1,14 @@
+{
+  "name": "cat-server",
+  "version": "1.0.0",
+  "description": "Get your dose of cats.",
+  "main": "cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "term-img": "^1.0.0"
+  }
+}
